@@ -1,0 +1,12 @@
+# .gitignore파일에 추가 및 변경
+
+# Logs 제외
+
+*.log
+npm-debug.log*
+
+# hello
+
+# Dependency directories
+# 관리대상에서 제외할 폴더 기술
+node_modules/
